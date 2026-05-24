@@ -1,8 +1,14 @@
 num1 = float(input('Enter the first number: '))
 num2 = float(input('Enter the second number: '))
-operator = str(
-    input('Enter the operator (1 For addition, 2 for subtraction, 3 for multiplication, 4 for division, 5 for exponentiation): ')
-)
+
+print('Enter the operator:')
+print('\t1. Addition')
+print('\t2. Subtraction')
+print('\t3. Multiplication')
+print('\t4. Division')
+print('\t5. Exponentiation')
+operator = str(input('-> '))
+
 
 if operator=='1':
     print('Result: ', num1+num2)
