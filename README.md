@@ -13,7 +13,11 @@ Este projeto é um treino sobre o flow básico de git e github.
 >Sobre
 -Meu nome é João Amândio
 -Sou estudante do primeiro semestre de CCIA.
+<<<<<<< HEAD
 -No meu Ensino Médio, eu estudei no Educallis.
+=======
+-No meu Ensino Médio, eu estudei no Divina Pastora.
+>>>>>>> conflictB
 
 >LOG
 d40d78a (HEAD -> master) feature: added <LOG> to README
