@@ -16,6 +16,8 @@ Este projeto é um treino sobre o flow básico de git e github.
 <<<<<<< HEAD
 -No meu Ensino Médio, eu estudei no Educallis.
 
+>Projeto feito com João Guilherme Raposo
+
 >LOG
 d40d78a (HEAD -> master) feature: added <LOG> to README
 3a602bd feature: added <Sobre> to README
