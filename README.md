@@ -9,3 +9,7 @@ Este projeto é um treino sobre o flow básico de git e github.
 
 >Como Utilizar
 -Abra a pasta meu-projeto em qualquer IDE ou terminal/bash.
+
+>Sobre
+-Meu nome é João Amândio
+-Sou estudante do primeiro semestre de CCIA.
