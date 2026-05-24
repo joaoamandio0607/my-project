@@ -13,3 +13,6 @@ def binary_search_iterative(arr, target):
  
     return -1
 
+binary_search_iterative([1,2,3,4,5,6,7,8,9,10], 11)
+
+
