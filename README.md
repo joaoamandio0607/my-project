@@ -2,3 +2,7 @@ Meu Projeto
 
 >Descrição
 Este projeto é um treino sobre o flow básico de git e github.
+
+>Como Instalar
+-Tenha a versão mais recente do VScode ou qualquer outra IDE instalada.
+-Disponível para Windows 7-11, Linux e Mac-Os.
